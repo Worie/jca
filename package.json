@@ -1,0 +1,23 @@
+{
+  "name": "jca",
+  "version": "0.0.1",
+  "description": "JCA",
+  "bin": {
+    "jca": "./bin/index.js"
+  },
+  "main": "index.js",
+  "preferGlobal": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Worie/jca.git"
+  },
+  "author": "Wojciech Połowniak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Worie/jca/issues"
+  },
+  "homepage": "https://github.com/Worie/jca#readme"
+}
